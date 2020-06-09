@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+}
+
+
+h3 {
+    margin: 0 auto;
+    background: #2ecc71;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+}
